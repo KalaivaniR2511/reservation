@@ -1,0 +1,22 @@
+{
+  "users": [{
+    "name": "Alex Meraz",
+    "email": "ameraz@email.com",
+	"phone": 9876543210,
+	"address":"Kamaraj Nagar Coimbatore",
+	"date":"21-08-2020",
+	"hour":3,
+	"min":45,
+	"meredian":"pm"
+  }, 
+  {
+    "name": "Akilan",
+    "email": "aki@email.com",
+	"phone": 9976543110,
+	"address":"Anna Nagar Coimbatore",
+	"date":"20-08-2020",
+	"hour":5,
+	"min":45,
+	"meredian":"pm"
+  }]
+}
